@@ -43,5 +43,6 @@ design thinking, the DevOps mindset, and explaining your work in interviews.
 - Don't binge. Watch a module, then do its Practice before moving on.
 - Type the code yourself — don't just read it.
 - Break things on purpose and fix them. That's the job.
+- videolink: https://www.youtube.com/watch?v=mM6X7wjEtag 
 
 Happy learning — TrainWithShubham.
